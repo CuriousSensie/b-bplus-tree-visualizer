@@ -15,3 +15,16 @@
 - TypeScript
 - TailwindCSS
 - ShadCN
+
+### To run the code, open your terminal and do the following:
+1. 
+```
+git pull https://github.com/CuriousSensie/b-bplus-tree-visualizer
+```
+
+2. Inside the directory, run the following
+```
+npm i
+
+npm run dev
+```
